@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.UIParticle", "Coffee.UIParticle.csproj", "{ec7fe1fb-353b-12c1-be51-b02a47995ed9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.UIParticle.Editor", "Coffee.UIParticle.Editor.csproj", "{a0ff803a-d6a2-4372-31f2-eefc0d0c13c0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{619700a2-3675-faaa-cbce-e6a9cc0a319f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ec7fe1fb-353b-12c1-be51-b02a47995ed9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ec7fe1fb-353b-12c1-be51-b02a47995ed9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a0ff803a-d6a2-4372-31f2-eefc0d0c13c0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a0ff803a-d6a2-4372-31f2-eefc0d0c13c0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619700a2-3675-faaa-cbce-e6a9cc0a319f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619700a2-3675-faaa-cbce-e6a9cc0a319f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
